@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align= "center">
   <h2>I'm an Android Developer</h2>
     <a href="https://t.me/borboz96" target="_blank">
@@ -12,7 +9,11 @@
 
 
 
+<br>
+<br>
+
 Check out my apps on **Google Play**:
+
 ---
 
 ### 1) Lifescreen: Don't waste time
