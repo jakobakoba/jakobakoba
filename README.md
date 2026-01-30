@@ -16,7 +16,7 @@ Check out my apps on **Google Play**:
 
 ---
 
-### 1) Lifescreen: Don't waste time
+- ### Lifescreen: Don't waste time
 <a href="https://play.google.com/store/apps/details?id=com.bor96dev.lifescreen">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get it on Google Play"/>
 </a>
@@ -30,5 +30,5 @@ The app tells you how much time you have lived and how much is left. You can tra
 />
 ---
 
-### 2) 1 Second Moments — currently in development 🚧
+- ### 1 Second Moments — currently in development 🚧
 Stay tuned! This app is coming soon.
