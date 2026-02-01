@@ -3,9 +3,6 @@
     <a href="https://t.me/borboz96" target="_blank">
       <img src="assets/icon/telegram.svg" width="28" height="28" alt="Telegram" />
     </a>
-  <a href="https://x.com/boris96dev" target="_blank">
-      <img src="assets/icon/twitter.svg" width="28" height="28" alt="X" />
-    </a>
   </div>
 </div>
 
