@@ -1,13 +1,13 @@
 
 <img width="1162" height="254" alt="Screenshot 2026-02-13 at 01 32 49" src="https://github.com/user-attachments/assets/c4403243-93de-4f6a-924c-b0e44d6246b3" />
 
-<div align= "center">
+<!-- <div align= "center">
   <h2>I'm an Android Developer</h2>
     <a href="https://t.me/borboz96" target="_blank">
       <img src="assets/icon/telegram.svg" width="28" height="28" alt="Telegram" />
     </a>
   </div>
-</div>
+</div> -->
 
 
 
